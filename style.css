@@ -1,0 +1,27 @@
+.nft__list{
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.nft__card{
+    width: 16rem;
+    margin: 1rem;
+    border: 3px black solid;
+    padding: 1rem;
+}
+
+.nft__img{
+    width: 15rem;
+}
+
+.btn{
+    padding: 1rem;
+    font-size: 2rem;
+    border: 3px black solid;
+    background-color: brown;
+    cursor: pointer;
+    position: relative;
+    left: 90%;
+}
